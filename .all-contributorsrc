@@ -620,6 +620,25 @@
         "infra",
         "maintenance"
       ]
+    },
+    {
+      "login": "codermohit",
+      "name": "codermohit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47295813?v=4",
+      "profile": "https://github.com/codermohit",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "financial",
+        "ideas",
+        "talk",
+        "test",
+        "tool",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
